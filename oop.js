@@ -16,3 +16,4 @@ class Person {
 const JON = new Person('Jon', 34, 'un zombie');
 console.log(JON);
 
+// Hola
